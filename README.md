@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JADU-developer
 - 👀 I’m interested in Game Development 
-- 🌱 I’m currently learning Unity and C# for Unity 
+- 🌱 I’m currently learning Unity and C#,
 - 💞️ I’m looking to collaborate on a Game Project
 - 📫 You can Reach By mailing on JADU.GameStudio@gmail.com 
 - 😄 Pronouns: Him
