@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00E1FF&center=true&vCenter=true&width=600&lines=Game+Developer+%7C+Unity+Fanatic;Coding+is+magic!;Building+playful+experiences+with+C%23;Let's+make+great+games!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00E1FF&center=true&vCenter=true&width=600&lines=Game+Developer+%7C+Unity+Fanatic;Coding+is+magic!;Building+playful+experiences+with+C%23;Let's+Make+Great+Games!" alt="Typing SVG" />
 </p>
 
 <p align="center">
