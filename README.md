@@ -9,7 +9,7 @@
 ---
 
 <h2 align="center">
-  🎮 Hi, I'm <span style="color:#00E1FF;">JADU-developer</span>!
+  🎮 Hi, I'm <span style="color:#00E1FF;">JADU</span>!
 </h2>
 
 <p align="center">
