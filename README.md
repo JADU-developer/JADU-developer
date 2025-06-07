@@ -64,7 +64,7 @@
   <summary>🕹️ <b>Fun Facts, Goals & More!</b> (click to expand)</summary>
   <ul>
     <li>♟️ <b>Chess lover</b></li>
-    <li>✨ <b>Fun fact:</b> <i>Coding is magic!</i></li>
+    <li>✨ <b>Fun fact:</b> <i>Coding is Magic!</i></li>
     <li>🏆 <b>My goal:</b> Make great games that everyone loves!</li>
   </ul>
 </details>
