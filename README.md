@@ -73,9 +73,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JADU-developer&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00E1FF&title_color=00E1FF&v=1" alt="Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JADU-developer&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JADU-developer&layout=compact&theme=tokyonight&hide_border=true&title_color=00E1FF" alt="Top Languages" height="160"/>
 </p>
 
 ---
