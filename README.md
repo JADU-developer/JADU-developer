@@ -78,6 +78,14 @@
 
 ---
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JADU-developer/JADU-developer/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JADU-developer/JADU-developer/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JADU-developer/JADU-developer/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=fa5c5c&height=80&section=footer&reversal=true"/>
 </p>
